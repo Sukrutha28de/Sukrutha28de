@@ -16,8 +16,6 @@
 
 - 🌱 I’m currently learning **NETWORKING AND LINUX AND PYTHON**
 
-- 🚀 Never stop creating new ideas.
-
 
 ### 💻 MY TECH STACK:
 
