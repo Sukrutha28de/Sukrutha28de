@@ -9,12 +9,12 @@
 </a>
 -->
 
-<p align="justify">Passionate about learning NETWORKING AND LINUX AND Devops and exploring new ideas through building projects.<br><br> l love learning through building projects
+<p align="justify">Passionate about learning NETWORKING and LINUX and Devops,exploring new ideas through building projects.<br><br>
 </p>
 
 <!--<img align="right" src="./Designer-4.png" width="170"> -->
 
-- 🌱 I’m currently learning **NETWORKING AND LINUX AND PYTHON**
+- 🌱 I’m currently learning **NETWORKING and LINUX and PYTHON**
 
 
 ### 💻 MY TECH STACK:
