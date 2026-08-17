@@ -9,12 +9,12 @@
 </a>
 -->
 
-<p align="justify">Passionate about learning java and exploring new ideas through building projects.<br><br> l love learning through building projects
+<p align="justify">Passionate about learning NETWORKING AND LINUX AND Devops and exploring new ideas through building projects.<br><br> l love learning through building projects
 </p>
 
 <!--<img align="right" src="./Designer-4.png" width="170"> -->
 
-- 🌱 I’m currently learning **JAVA and CYBER SECURITY**
+- 🌱 I’m currently learning **NETWORKING AND LINUX AND PYTHON**
 
 - 🚀 Never stop creating new ideas.
 
