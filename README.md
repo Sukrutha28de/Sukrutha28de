@@ -9,19 +9,21 @@
 </a>
 -->
 
-<p align="justify">Passionate about learning NETWORKING and LINUX and Devops,exploring new ideas through building projects.<br><br>
+<p align="justify">I'm a college student interested in networking and Linux. I like understanding how networks work by building and breaking them in labs.<br><br>
 </p>
 
 <!--<img align="right" src="./Designer-4.png" width="170"> -->
 
-- 🌱 I’m currently learning **NETWORKING and LINUX and PYTHON**
+- 🌱 I'm currently learning **Networking, Linux and Python**
+- 🌐 I build and troubleshoot network labs in **Cisco Packet Tracer**
+- 🎯 Goal: **CCNA 200-301**
 
 
 ### 💻 MY TECH STACK:
 
-| Languages | Frameworks | Databases | OS | 
-| --------- | ---------- | --------- | -- | 
-| <img src="https://skillicons.dev/icons?i=java,c,python,html,css&perline=3" /> | <img src="https://skillicons.dev/icons?i=spring&perline=3" /> | <img src="https://skillicons.dev/icons?i=mysql&perline=3"/> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali&perline=3"/> |
+| Languages | Frameworks | Databases | OS | Tools |
+| --------- | ---------- | --------- | -- | ----- |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,python,html,css,yaml&perline=3" /> | <img src="https://skillicons.dev/icons?i=spring&perline=3" /> | <img src="https://skillicons.dev/icons?i=mysql&perline=3"/> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali&perline=3"/> | <img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker" /> <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" title="Cisco Packet Tracer" /> |
 
 <div align="center">
 <div><h3>Lets connect 👨🏻‍💻✨ </h3></div>
@@ -32,4 +34,3 @@
 <img src="https://raw.githubusercontent.com/solomonjdavid001/solomonjdavid001/output/snake.svg" alt="Snake animation" />
 
 </div>
-
