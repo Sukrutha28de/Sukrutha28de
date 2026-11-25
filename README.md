@@ -1,36 +1,38 @@
-![](./assets/main.gif)
-
-<h1 align="center">Hey 👋, I'm Sukrutha DE</h1>
-
 <p align="center">
- 
-<!--<a href="https://github.com/solomonjdavid001"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Backend+Developer;MERN|JavaScript|Python" alt="Typing SVG" />
-</a>
--->
-
-<p align="justify">I'm a college student interested in networking and Linux. I like understanding how networks work by building and breaking them in labs.<br><br>
+  <img src="./assets/cover.svg" width="100%" alt="Sukrutha D E — Networking, Linux, CCNA. Computer Science & Engineering, Year 3." />
 </p>
 
-<!--<img align="right" src="./Designer-4.png" width="170"> -->
+<p align="center">
+  <img src="./assets/p01.svg" width="100%" alt="Profile: Sukrutha D E is a third-year Computer Science and Engineering student focused on networking and Linux systems, currently preparing for the Cisco CCNA 200-301 certification." />
+</p>
 
-- 🌱 I'm currently learning **Networking, Linux and Python**
-- 🌐 I build and troubleshoot network labs in **Cisco Packet Tracer**
-- 🎯 Goal: **CCNA 200-301**
+<p align="center">
+  <img src="./assets/p02.svg" width="100%" alt="Technical skills. Languages: Python, Java, C, HTML, CSS, YAML. Networking: TCP/IP, subnetting and VLSM, VLANs and trunking, STP, EtherChannel, OSPF, static routing, NAT, DHCP, DNS, ACLs, IPv6, wireless basics. Security: ACLs, port security, SSH hardening, VPN concepts, Wireshark packet analysis. Systems: Linux, Ubuntu, Kali Linux, Windows. Frameworks and tools: Cisco Packet Tracer, Docker, Spring, MySQL, Git, GitHub." />
+</p>
 
+<p align="center">
+  <img src="./assets/p03.svg" width="100%" alt="Areas of interest: Networking and Linux." />
+</p>
 
-### 💻 MY TECH STACK:
+<p align="center">
+  <img src="./assets/p04.svg" width="100%" alt="Currently learning: CCNA 200-301, in progress." />
+</p>
 
-| Languages | Frameworks | Databases | OS | Tools |
-| --------- | ---------- | --------- | -- | ----- |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,python,html,css,yaml&perline=3" /> | <img src="https://skillicons.dev/icons?i=spring&perline=3" /> | <img src="https://skillicons.dev/icons?i=mysql&perline=3"/> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali&perline=3"/> | <img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker" /> <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" title="Cisco Packet Tracer" /> |
+<p align="center">
+  <img src="./assets/p05.svg" width="100%" alt="GitHub activity" />
+  <img src="https://raw.githubusercontent.com/Sukrutha28de/Sukrutha28de/output/activity.svg" width="100%" alt="Contribution graph for the last twelve months" />
+</p>
 
-<div align="center">
-<div><h3>Lets connect 👨🏻‍💻✨ </h3></div>
-  
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/sukrutha-de28/)
+<p align="center">
+  <img src="./assets/p06.svg" width="100%" alt="Contact. Open to internships and collaboration in networking." />
+</p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/sukrutha-de28/"><img src="./assets/contact-linkedin.svg" height="56" alt="LinkedIn: /in/sukrutha-de28" /></a>
+  <a href="https://github.com/Sukrutha28de"><img src="./assets/contact-github.svg" height="56" alt="GitHub: @Sukrutha28de" /></a>
+  <a href="mailto:sukruthagowda723@gmail.com"><img src="./assets/contact-email.svg" height="56" alt="Email: sukruthagowda723@gmail.com" /></a>
+</p>
 
-<img src="https://raw.githubusercontent.com/solomonjdavid001/solomonjdavid001/output/snake.svg" alt="Snake animation" />
-
-</div>
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Sukrutha D E — networking, linux, ccna" />
+</p>
