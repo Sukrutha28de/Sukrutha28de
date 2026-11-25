@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cover.svg" width="100%" alt="Sukrutha D E — Networking, Linux, CCNA. Computer Science & Engineering, Year 3." />
+  <img src="./cover-v2.svg" width="100%" alt="Sukrutha D E — Networking, Linux, CCNA. Computer Science & Engineering, Year 3." />
 </p>
 
 <p align="center">
